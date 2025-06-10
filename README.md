@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript, React, Nextjs, Node.js, AWS,**
 
-- 📫 How to reach me **akshvashist122001@gmail.com**
+- 📫 How to reach me **akshvashistwork122001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
