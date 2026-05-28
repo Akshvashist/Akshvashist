@@ -1,7 +1,8 @@
 <img width="2172" height="724" alt="ChatGPT Image May 28, 2026, 12_40_45 PM" src="https://github.com/user-attachments/assets/edf5c442-565d-4a80-b222-3ba384f32bb5" />
 
 <h1 align="center">Hi 👋, I'm Aksh Vashist</h1>
-<h3 align="center">🚀 Passionate tech enthusiast from India.
+<h3 align="center">🚀 Building scalable full-stack and cloud-based applications
+
 </h3>
 
 
