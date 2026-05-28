@@ -25,67 +25,107 @@
 <a href="https://www.instagram.com/akshvashist/profilecard/?igsh=awdjzmx5ztj6ympx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akshvashist/profilecard/?igsh=awdjzmx5ztj6ympx" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+## 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
+<table>
 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
-</a>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java
+</td>
 
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot"/>
-</a>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>Spring Boot
+</td>
 
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=react" alt="React.js" title="React.js"/>
-</a>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React
+</td>
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>
-</a>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js
+</td>
 
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/>
-</a>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
+</td>
 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="Amazon Web Services"/>
-</a>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript
+</td>
+</tr>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/>
-</a>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br>MySQL
+</td>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
-</a>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
+</td>
 
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
-</a>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS
+</td>
 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/>
-</a>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker
+</td>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
-</a>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
+</td>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/>
-</a>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub
+</td>
+</tr>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/>
-</a>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
+</td>
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/>
-</a>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3
+</td>
 
-</p>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="48"/><br>IntelliJ
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express.js
+</td>
+
+</tr>
+
+</table>
+</div>
+
 
 
 
