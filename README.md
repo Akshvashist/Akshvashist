@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)   
+https://chatgpt.com/s/m_6a17ea5491c881918b63b34969194814
 <h1 align="center">Hi 👋, I'm Aksh Vashist</h1>
 <h3 align="center">🚀 Passionate tech enthusiast from India.
 </h3>
