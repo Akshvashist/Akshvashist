@@ -4,15 +4,16 @@
 
 
 
-- 🔭 I’m currently working on **Improving cloud-based solutions**
+🔭 I’m currently working on building scalable full-stack web applications using Java, Spring Boot, React, and MySQL.
 
-- 🌱 I’m currently learning **Advanced AWS Services and GraphQL.**
+🌱 I’m currently learning Advanced AWS Services, GraphQL, and modern backend architecture.
 
-- 👯 I’m looking to collaborate on **Full stack project**
+👯 I’m looking to collaborate on Full Stack and Cloud-based projects.
 
-- 💬 Ask me about **JavaScript, React, Nextjs, Node.js, AWS,**
+💬 Ask me about Java, Spring Boot, React.js, Next.js, REST APIs, MySQL, AWS, and Full Stack Development.
 
-- 📫 How to reach me **akshvashistwork122001@gmail.com**
+📫 How to reach me: [akshvashistwork122001@gmail.com](mailto:akshvashistwork122001@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
