@@ -30,62 +30,63 @@
 <p align="center">
 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=java" alt="java"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
 </a>
 
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=spring" alt="springboot"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot"/>
 </a>
 
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=react" alt="react"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React.js" title="React.js"/>
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>
 </a>
 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/>
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=aws" alt="aws"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="Amazon Web Services"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=git" alt="git"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
 </a>
 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=github" alt="github"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
 </a>
 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=html" alt="html5"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/>
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=css" alt="css3"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/>
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/>
 </a>
 
 </p>
+
 
 
 
