@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aksh Vashist</h1>
-<h3 align="center">A passionate tech fanatic from India</h3>
+<h3 align="center">🚀 Passionate tech enthusiast from India.
+</h3>
 
 
 
